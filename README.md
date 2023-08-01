@@ -23,6 +23,8 @@ The bots features: It can change its name, avatar, status, and server picture in
 
 An additional handy feature is the bot's ability to adapt to your local timezone. This can be set manually, enabling the bot to display the correct local time, and it will also alter the flag displayed when the bot posts an update.
 
+![flags](examples/flags.png)
+
 Enjoy the utility of this discord bot!
 
 Creator: jc8048
