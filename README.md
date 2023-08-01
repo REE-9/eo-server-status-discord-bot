@@ -4,10 +4,10 @@ This is a Discord bot designed to monitor the status of Endless-Online servers. 
 Here are the steps to deploy this bot:
 
     Make sure your machine has python and the requirments installed.
-    Create a Discord server.
+    Create a Discord server. (Optional)
     Create a Discord bot and take note of its api key.
     Designate a text channel named "server-status" for the bot to post updates on the server you've created/already have.
-    Invite the bot to it.
+    Invite the bot to your server.
     Ensure that the bot has all necessary permissions for functionality.
     Update the config.py with your discord bots API key.
     Remember to install the 'discord.py' & 'pytz' libs. I've provided a requirements.txt.
