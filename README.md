@@ -1,9 +1,11 @@
 # eo-server-status-discord-bot
 This is a Discord bot designed to monitor the status of Endless-Online servers. By default, it checks the status of the official server, but it's versatile enough to monitor any server of your choice. Simply adjust the host and/or port as necessary.
 
-![serverpicture](examples\serverpicture.png)
-![role](examples\role.png)
-![serverstatus](examples\serverstatus.png)
+![serverpicture](examples/serverpicture.png)
+<br>
+![role](examples/role.png)
+<br>
+![serverstatus](examples/serverstatus.png)
 
 Here are the steps to deploy this bot:
 
